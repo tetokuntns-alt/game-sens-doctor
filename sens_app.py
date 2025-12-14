@@ -3,7 +3,7 @@ from datetime import datetime
 
 # ページ設定
 st.set_page_config(
-    page_title="ゲーム最適感度ドクター",
+    page_title="ゲーム最適感度",
     page_icon="🎮",
     layout="wide",
 )
