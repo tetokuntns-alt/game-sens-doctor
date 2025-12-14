@@ -240,7 +240,7 @@ def set_dark_style():
 
 def render_setup_screen():
     st.markdown(
-        "<h1>🎮 ゲーム最適感度ドクター</h1>",
+        "<h1>🎮 ゲーム最適感度</h1>",
         unsafe_allow_html=True,
     )
     st.caption("A/Bテストで、あなたの手に合うゲーム内感度を診断します。")
